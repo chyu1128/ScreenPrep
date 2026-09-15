@@ -51,5 +51,5 @@ ABC-003,CCOCC,93.3
 The exported CSV includes only retained compounds and preserves the header order `ID,SMILES,VALUE`. Duplicate detection compares the canonical, desalted SMILES; the first occurrence is retained.
 
 ## Interface
-![ScreenPrep interface](image.png)
-![ScreenPrep example](image-1.png)
+![ScreenPrep interface](Screenshots/image.png)
+![ScreenPrep example](Screenshots/image-1.png)
