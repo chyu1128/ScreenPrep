@@ -1,9 +1,3 @@
-"""ScreenPrep: RDKit-powered CSV preprocessing for drug-screening inputs.
-
-Run with:  python app.py
-Install dependencies:  conda install -c conda-forge rdkit pandas
-"""
-
 from __future__ import annotations
 
 import csv
