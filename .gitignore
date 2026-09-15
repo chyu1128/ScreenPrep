@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+.vscode/
+.idea/
+
+.DS_Store
+
+*.log
+
+# Generated data
+*_cleaned.csv
